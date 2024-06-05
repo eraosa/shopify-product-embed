@@ -60,15 +60,15 @@ If you have any questions or need assistance, please create an issue on the plug
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](assets/screenshots/screenshot1.jpg)
+[View screenshot](assets/screenshots/screenshot1.jpg)
 Example of an embedded product.
 
 ### Screenshot 2
-![Screenshot 2](assets/screenshots/screenshot2.jpg)
+[View screenshot](assets/screenshots/screenshot2.jpg)
 Example of Cart logic.
 
 ### Screenshot 
-![Screenshot 3](assets/screenshots/screenshot3.jpg)
+[View screenshot](assets/screenshots/screenshot3.jpg)
 Example full embeded view.
 
 ## Changelog
