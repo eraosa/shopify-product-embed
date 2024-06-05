@@ -43,7 +43,7 @@ We welcome contributions to this plugin. Please see the contributing guidelines 
 
 ## License
 
-This plugin is licensed under the GNU General Public License (GPL).
+This plugin is licensed under the [GNU General Public License (GPL)](https://github.com/eraosa/shopify-product-embed/blob/master/LICENCE).
 
 ## Keywords
 
