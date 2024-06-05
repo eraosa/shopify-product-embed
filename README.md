@@ -52,6 +52,7 @@ Shopify, product embed, WordPress, shortcode, buy button, ecommerce
 ## Additional Notes
 
 - Replace `YOUR_PRODUCT_ID` with the actual ID of the product you want to embed.
+In the "shopify-product-embed-scripts.php" file, under "function ShopifyBuyInit()", update with your shopify domain url and storefrontAccessToken.
 
 ## Support
 

@@ -29,8 +29,8 @@ function enqueue_shopify_script() {
 
             function ShopifyBuyInit() {
                 var client = ShopifyBuy.buildClient({
-                    domain: 'bcbd37-2.myshopify.com', // Replace with your store domain
-                    storefrontAccessToken: '04b7d07f42a7d738881840d8ed7605b2', // Replace with your access token
+                    domain: 'yourLink.myshopify.com', // Replace with your store domain
+                    storefrontAccessToken: 'XXXXXXXX881840d8edXXXXXX', // Replace with your access token
                 });
                 window.ShopifyBuyClient = client;
             }
