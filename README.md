@@ -5,7 +5,7 @@ This plugin allows you to easily embed Shopify single, multiple or collection pr
 ## Features
 
 - Embed individual products or collections.
-- Use the Shopify Buy Button to enable product purchases directly from your WordPress site.
+- Enable Shopify product purchases directly from your WordPress site.
 - Compatible with all WordPress themes.
 
 ## Requirements
@@ -29,9 +29,10 @@ To embed a product, use the following shortcode in your WordPress posts or pages
 
 ```[shopify_product id="1234567890"]```
 
-## Shopify Buy Button
+## Additional Notes
 
-The plugin is compatible with the Shopify Buy Button, which allows you to enable product purchases directly from your WordPress site. To learn more about the Shopify Buy Button, please visit the [Shopify documentation](https://help.shopify.com/en/manual/products/details/buy-button).
+- Replace `YOUR_PRODUCT_ID` with the actual ID of the product you want to embed.
+- In the "shopify-product-embed-scripts.php" file, under "function ShopifyBuyInit()", update with your shopify domain url and storefrontAccessToken (Generate one from your shopify Developer Apps settings).
 
 ## Documentation
 
@@ -48,11 +49,6 @@ This plugin is licensed under the [GNU General Public License (GPL)](https://git
 ## Keywords
 
 Shopify, product embed, WordPress, shortcode, buy button, ecommerce
-
-## Additional Notes
-
-- Replace `YOUR_PRODUCT_ID` with the actual ID of the product you want to embed.
-- In the "shopify-product-embed-scripts.php" file, under "function ShopifyBuyInit()", update with your shopify domain url and storefrontAccessToken.
 
 ## Support
 
